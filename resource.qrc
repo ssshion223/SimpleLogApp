@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/images">
+        <file>img/143830698_p0_tp.png</file>
+        <file>img/143860809_p0_tp.png</file>
+        <file>img/142686513_p0_tp.png</file>
+    </qresource>
+</RCC>
